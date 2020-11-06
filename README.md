@@ -2,6 +2,6 @@
 
 [CanSat Educativo](https://leobotmanuel.github.io/cansat-educativo/) (2020)
 
-[Amplificación Mecanoceptiva](https://mecanoceptiva.github.io/) (2018)
+[Amplificación Mecanoceptiva](https://mecanoceptiva.github.io/) (2017)
 
-[EduBasica](https://edubasica.github.io/) (2014)
+[EduBasica](https://edubasica.github.io/) (2016)
