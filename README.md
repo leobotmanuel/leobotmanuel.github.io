@@ -1,6 +1,6 @@
 # Proyectos Open Source
 
-## [Monitorización de Ponentes y Auditorio] (https://leobotmanuel.github.io/MonitorizacionPersonasSalas/) (2022)
+## [Monitorización de Ponentes y Auditorio](https://leobotmanuel.github.io/MonitorizacionPersonasSalas/) (2022)
 
 ## [CanSat Educativo](https://leobotmanuel.github.io/cansat-educativo/) (2020)
 
